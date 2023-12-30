@@ -1,0 +1,7 @@
+GPA,high school,extra curriculars,ACT score,outcome
+B,private,strong,low,reject
+B,public,strong,low,accept
+C,public,weak,high,accept
+B,private,weak,high,reject
+A,private,weak,low,accept
+C,private,strong,low,reject

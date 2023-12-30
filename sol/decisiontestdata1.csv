@@ -1,0 +1,8 @@
+Name,GPA,high school,extra curriculars,ACT score,outcome
+student1,B,private,strong,low,reject
+student2,B,public,strong,low,accept
+student3,C,public,strong,high,accept
+student4,B,private,weak,high,reject
+student5,A,private,weak,low,accept
+student6,C,private,strong,low,reject
+student8,C,public,weak,high,reject
