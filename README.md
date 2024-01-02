@@ -33,4 +33,5 @@ ITreeNode: This Interface contains a method to get a decision given a Row. You s
 
 Row: A Class which represents a row in a dataset. You should not edit this Class.
 
+![Protein](https://github.com/lukegriley/DecisionTree/assets/70218073/6b4233dd-386a-4b3c-bed5-ac4645fc7e36)
 
